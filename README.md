@@ -4,23 +4,12 @@ Spring semester of Master Razavi
 
 # علی سلامتی خیاوی
 - [PNU_3992_AR]()
-- [Resume]( https://alisalamati.github.io/resume/) 
+- [Resume]( https://alisalamati.github.io) 
 - [SOP](https://alisalamati.github.io/SOP/)
 - [Certificates](https://alisalamati.github.io/Certificate/)
 - [GitHub](https://github.com/alisalamati)
 
 ------------------
-> ارزیابی ها
-
-##  بخش عمومی
-- [ارزیابی رزومه و انگیزه نامه](https://github.com/alisalamati/PNU_3992/)
-- [خلاصه ارزیابی بخش عمومی](https://github.com/alisalamati/PNU_3992/)
-
-##  بخش دروس کارشناسی
-- [خلاصه ارزیابی درس_طراحی رابط کاربری]()
-- [خلاصه ارزیابی درس_تعامل انسان و کامپیوتر]()
-------------------
-
 ## فهرست درس ها  
 
 - [طراحی رابط کاربری	]()
