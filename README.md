@@ -12,10 +12,10 @@ Spring semester of Master Razavi
 ------------------
 ## فهرست درس ها  
 
-- [طراحی رابط کاربری-میان ترم] ([UID]/UID-میان ترم.pdf)
-- [طراحی رابط کاربری-پایان ترم] ([UID]/UID-پایان ترم.pdf)
-- [تعامل انسان و کامپیوتر-میان ترم] ([HCI]/HCI میان ترم.pdf)
-- [تعامل انسان و کامپیوتر-پایان ترم] ([HCI]/HCI پایان ترم.pdf)
+- [طراحی رابط کاربری-میان ترم] (https://github.com/alisalamati/PNU_3992/blob/main/%5BUID%5D/UID-%D9%85%DB%8C%D8%A7%D9%86%20%D8%AA%D8%B1%D9%85.pdf)
+- [طراحی رابط کاربری-پایان ترم] (https://github.com/alisalamati/PNU_3992/blob/main/%5BUID%5D/UID-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%20%D8%AA%D8%B1%D9%85.pdf)
+- [تعامل انسان و کامپیوتر-میان ترم] (https://github.com/alisalamati/PNU_3992/blob/main/%5BHCI%5D/HCI%20%D9%85%DB%8C%D8%A7%D9%86%20%D8%AA%D8%B1%D9%85.pdf)
+- [تعامل انسان و کامپیوتر-پایان ترم] (https://github.com/alisalamati/PNU_3992/blob/main/%5BHCI%5D/HCI%20%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%20%D8%AA%D8%B1%D9%85.pdf)
 ------------------
     
 ## گروه های درسی 
